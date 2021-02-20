@@ -1,9 +1,9 @@
- 
+
 
 // Grobal id Area
 const btn = document.getElementById('btn');
 const reset = document.getElementById("reset");
-
+ 
 // Definition EventListener Area
 
  btn.addEventListener("click" , way);
